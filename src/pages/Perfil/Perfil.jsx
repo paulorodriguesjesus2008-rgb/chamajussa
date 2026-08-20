@@ -11,7 +11,7 @@ import Footer from '../../components/Footer/Footer';
 import styles from './PerfilStyle';
 
 const usuario = {
-  nome: 'Paulo André',
+  nome: 'Paulo',
   email: 'pauloandre@icloud.com',
 };
 
